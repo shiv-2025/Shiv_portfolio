@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Shiv Suthar</title>
+    <link>https://shiv-2025.github.io/Shiv_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Shiv Suthar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://shiv-2025.github.io/Shiv_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Adult Census Income Prediction</title>
+      <link>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-1/</guid>
+      <description>There are different type of people with different race, sex, country, marrital status etc having different workclass and occupation it become necessary to know in which salary class a person falls. The Goal is to predict whether a person has an income of more than 50K a year or not. This is basically a binary classification problem where a person is classified into the &amp;gt;50K group or &amp;lt;=50K group.
+I have created a complete blog to solve this machine learning problem.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Predict The Price Of Books</title>
+      <link>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-2/</link>
+      <pubDate>Tue, 10 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-2/</guid>
+      <description>There are many among us who prefer to spend more time with books than anything else. Here we explore a big database of books. Books of different genres, from thousands of authors. In this project, we will use the dataset to build a Machine Learning model to predict the price of books based on a given set of features.
+Size of training set: 6237 records
+Size of test set: 1560 records</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shiv-2025.github.io/Shiv_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiv-2025.github.io/Shiv_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/channel/UCpnjGeQFxAf32bKGhplfUkw/   LinkedIn: https://www.linkedin.com/in/shivsuthar/   GitHub: https://github.com/shiv-2025/    </description>
+    </item>
+    
+  </channel>
+</rss>

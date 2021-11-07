@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Shiv Suthar</title>
+    <link>https://shiv-2025.github.io/Shiv_portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Shiv Suthar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://shiv-2025.github.io/Shiv_portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Adult Census Income Prediction</title>
+      <link>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-1/</guid>
+      <description>There are different type of people with different race, sex, country, marrital status etc having different workclass and occupation it become necessary to know in which salary class a person falls. The Goal is to predict whether a person has an income of more than 50K a year or not. This is basically a binary classification problem where a person is classified into the &amp;gt;50K group or &amp;lt;=50K group.
+I have created a complete blog to solve this machine learning problem.</description>
+    </item>
+    
+  </channel>
+</rss>
