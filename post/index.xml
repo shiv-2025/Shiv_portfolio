@@ -28,5 +28,14 @@ Size of training set: 6237 records
 Size of test set: 1560 records</description>
     </item>
     
+    <item>
+      <title>Project III: Image classification of Cats and Dogs</title>
+      <link>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-3/</link>
+      <pubDate>Fri, 12 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://shiv-2025.github.io/Shiv_portfolio/post/chapter-3/</guid>
+      <description>In this project, we have written an algorithm to classify whether images contain either a dog or a cat.  This is easy for humans, dogs, and cats. Your computer will find it a bit more difficult. </description>
+    </item>
+    
   </channel>
 </rss>
